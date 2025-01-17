@@ -1,8 +1,7 @@
 {
-  "name": "AI FLORET",
-  "symbol": "AIF",
-  "description": "This little floret will grow into a big beautiful flower with our help. We believe in pump..",
-  "image": "https://amethyst-flexible-marmot-236.mypinata.cloud/files/bafkreib7esbr3ppunkasqepzainhyoi5jgl7mt3qnwmx6g5kkvpstjfpzm",
-  "showName": true,
-  "twitter": "https://x.com/flwrlabs"
+  "name": "Lamas Finance",
+  "symbol": "LMF",
+  "description": "LMF, the native utility token of the Lamas Finance platform, is used for rewarding users and is utilized in all of the system’s features. LMF token holders will enjoy many benefits such as rewards from staking and farming programs, reducing taxes when playing games, and participating in project management. ",
+  "image": "https://www.lamas.co/resource/lmf_token.png",
+  "seller_fee_basis_points": 0
 }
