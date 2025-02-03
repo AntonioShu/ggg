@@ -2,15 +2,15 @@
   "name": "Only up",
   "symbol": "OLU",
   "description": "Official Only up Solana",
-  "image": "https://dd.dexscreener.com/ds-data/tokens/solana/FaYKn7Huqch6C6YU1aF8DQ72Mu6QvoCCd7njyK8pump.png",
+  "image": "https://amethyst-flexible-marmot-236.mypinata.cloud/ipfs/bafkreiejf5vqitzgqd45zdpvlbifxih3rbo6e6k454fo4vhjtf2gzv2mbm",
   "decimals": 9,
   "seller_fee_basis_points": 0,
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://dd.dexscreener.com/ds-data/tokens/solana/FaYKn7Huqch6C6YU1aF8DQ72Mu6QvoCCd7njyK8pump.png",
-        "type": "image/png"
+        "uri": "https://amethyst-flexible-marmot-236.mypinata.cloud/ipfs/bafkreiejf5vqitzgqd45zdpvlbifxih3rbo6e6k454fo4vhjtf2gzv2mbm",
+        "type": "image/jpg"
       }
     ],
     "category": "image"
