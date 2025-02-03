@@ -2,14 +2,14 @@
   "name": "Only up",
   "symbol": "OLU",
   "description": "Official Only up Solana",
-  "image": "https://github.com/AntonioShu/ggg/blob/main/only.jpg",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/solana/FaYKn7Huqch6C6YU1aF8DQ72Mu6QvoCCd7njyK8pump.png",
   "decimals": 9,
   "seller_fee_basis_points": 0,
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/AntonioShu/ggg/blob/main/only.jpg",
+        "uri": "https://dd.dexscreener.com/ds-data/tokens/solana/FaYKn7Huqch6C6YU1aF8DQ72Mu6QvoCCd7njyK8pump.png",
         "type": "image/png"
       }
     ],
